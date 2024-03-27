@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\bin\Debug\net6.0\ConsoleApp78.exe
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\bin\Debug\net6.0\ConsoleApp78.deps.json
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\bin\Debug\net6.0\ConsoleApp78.runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\bin\Debug\net6.0\ConsoleApp78.dll
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\bin\Debug\net6.0\ConsoleApp78.pdb
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\obj\Debug\net6.0\ConsoleApp78.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\obj\Debug\net6.0\ConsoleApp78.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\obj\Debug\net6.0\ConsoleApp78.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\obj\Debug\net6.0\ConsoleApp78.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\obj\Debug\net6.0\ConsoleApp78.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\obj\Debug\net6.0\ConsoleApp78.dll
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\obj\Debug\net6.0\refint\ConsoleApp78.dll
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\obj\Debug\net6.0\ConsoleApp78.pdb
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\obj\Debug\net6.0\ConsoleApp78.genruntimeconfig.cache
+C:\Users\Student\Documents\Visual Studio 2022\ConsoleApp78\obj\Debug\net6.0\ref\ConsoleApp78.dll
