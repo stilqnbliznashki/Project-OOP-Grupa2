@@ -10,9 +10,10 @@
 
             for (int i = 0; i < numbers; i++)
             {
-                Console.WriteLine("Enter name:");
+                Console.WriteLine($"\nEnter data of employee {i+1}\n");
+                Console.Write("Enter name: ");
                 string newEmployeeName = Console.ReadLine();
-                Console.WriteLine("Enter age:");
+                Console.Write("Enter age: ");
                 int newEmployeeAge = int.Parse(Console.ReadLine());
                 Department.AddMember(newEmployeeName, newEmployeeAge);
             }
